@@ -1,8 +1,8 @@
-package com.pavan.service;
+package com.deepti.service;
 
 import java.util.List;
 
-import com.pavan.model.Product;
+import com.deepti.model.Product;
 
 public interface ProductService {
 
