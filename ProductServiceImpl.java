@@ -1,12 +1,12 @@
-package com.pavan.service;
+package com.deepti.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.pavan.model.Product;
-import com.pavan.repository.ProductRepository;
+import com.deepti.model.Product;
+import com.deepti.repository.ProductRepository;
 
 @Service
 public class ProductServiceImpl implements ProductService{
