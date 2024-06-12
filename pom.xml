@@ -8,7 +8,7 @@
 		<version>3.2.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.pavan</groupId>
+	<groupId>com.deepti</groupId>
 	<artifactId>Product_Management_Project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Product_Management_Project</name>
