@@ -1,4 +1,4 @@
-package com.pavan.controller;
+package com.deepti.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.pavan.model.Product;
-import com.pavan.service.ProductService;
+import com.deepti.model.Product;
+import com.deepti.service.ProductService;
 
 @CrossOrigin(origins = "http://localhost:3000")
 @RestController
