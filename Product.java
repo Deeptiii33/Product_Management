@@ -1,4 +1,4 @@
-package com.pavan.model;
+package com.deepti.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
