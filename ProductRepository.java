@@ -1,10 +1,11 @@
-package com.pavan.repository;
+package com.deepti.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.pavan.model.Product;
+import com.deepti.model.Product;
 
-public interface ProductRepository extends JpaRepository<Product, Integer>{
-
+public interface ProductRepository extends JpaRepository<Product, Integer>
+{
+....
 	
 }
